@@ -7,6 +7,6 @@ practBranchMerge-rKremser
 <div>
 <img src="./ScreenShots/master.png" width="250">
 <img src="./ScreenShots/iss53.png" width="250">
-<img src="-/ScreenShots/readme.png" width="250">
+<img src="./ScreenShots/readme.png" width="250">
 
 </div>
